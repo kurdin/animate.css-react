@@ -22,10 +22,6 @@ Open browser in http://localhost:8080
 
 You need to install and require animate.css yourself.
 
-This way you may have a small css build, importing just the animations you need.
-
-Or you can create your own animations, use another library... This is a very small package, you should take a look at source.
-
 ## Usage
 
 ```js
@@ -57,7 +53,7 @@ import 'animate.css/animate.css'  // you need to require the css somewhere
     durationAppear={1000}
     component="div" >
 
-  <h1>react 16 animate.css</h1>
+  <h1>react animate.css</h1>
 
 </Animate>
 ```
