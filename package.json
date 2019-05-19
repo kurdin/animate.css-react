@@ -1,13 +1,13 @@
 {
-  "name": "react16-animate.css",
+  "name": "animate.css-react",
   "version": "0.0.3",
-  "description": "React 16 animations with animate.css",
+  "description": "React animations with animate.css",
   "main": "build/Animate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kurdin/react16-animate.css.git"
+    "url": "https://github.com/kurdin/animate.css-react.git"
   },
-  "bugs": "https://github.com/kurdin/react16-animate.css/issues",
+  "bugs": "https://github.com/kurdin/animate.css-react/issues",
   "scripts": {
     "build": "run/build.sh",
     "demo": "babel-node example/server.js",
@@ -16,9 +16,7 @@
     "version:major": "npm --no-git-tag-version version major",
     "tag": "git tag v$npm_package_version"
   },
-  "authors": [
-    "Sergey Kurdin"
-  ],
+  "authors": ["Sergey Kurdin"],
   "license": "MIT",
   "devDependencies": {
     "animate.css": "^3.7.0",
@@ -47,10 +45,7 @@
     "webpack": "^1.12.6",
     "webpack-dev-middleware": "^1.2.0"
   },
-  "keywords": [
-    "react",
-    "animate.css"
-  ],
+  "keywords": ["react", "animate.css"],
   "dependencies": {
     "create-react-class": "^15.6.3",
     "dom-helpers": "^3.4.0",

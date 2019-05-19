@@ -1,4 +1,4 @@
-# Reacet 16 animations with animate.css
+# React animations with animate.css
 
 <img src="https://cloud.githubusercontent.com/assets/6027060/25237321/4f1a39fa-25b8-11e7-8269-1743f8b8552e.gif"/>
 
@@ -6,13 +6,13 @@
 
 Using [npm](https://www.npmjs.com/):
 
-    $ npm install --save react16-animate.css
+    $ npm install --save animate.css-react
     $ npm install --save animate.css
 
 ## Run Demo
 
-    $ git clone https://github.com/kurdin/react16-animate.css
-    $ cd react16-animate.css
+    $ git clone https://github.com/kurdin/animate.css-react
+    $ cd animate.css-react
     $ npm install
     $ npm run demo
 
@@ -29,7 +29,7 @@ Or you can create your own animations, use another library... This is a very sma
 ## Usage
 
 ```js
-import Animate from 'react16-animate.css'
+import Animate from 'animate.css-react'
 
 import 'animate.css/animate.css'  // you need to require the css somewhere
 
