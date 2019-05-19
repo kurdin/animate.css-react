@@ -2,8 +2,6 @@
 
 <img src="https://cloud.githubusercontent.com/assets/6027060/25237321/4f1a39fa-25b8-11e7-8269-1743f8b8552e.gif"/>
 
-#### [Online Demo](https://kurdin.github.io/react16-animate-css)
-
 ## Installation
 
 Using [npm](https://www.npmjs.com/):
