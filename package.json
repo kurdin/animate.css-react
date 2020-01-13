@@ -21,6 +21,7 @@
   "devDependencies": {
     "animate.css": "^3.7.0",
     "babel-core": "^6.23.0",
+    "lodash": ">=4.17.11",
     "babel-loader": "^6.3.0",
     "babel-plugin-react": "^1.0.0",
     "babel-plugin-react-transform": "^3.0.0",
