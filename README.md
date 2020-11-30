@@ -1,3 +1,6 @@
+# This is too old, please use something else 
+I would recommend to all who is looking for good animation package for React please use react-spring https://www.react-spring.io
+
 # React animations with animate.css
 
 <img src="https://cloud.githubusercontent.com/assets/6027060/25237321/4f1a39fa-25b8-11e7-8269-1743f8b8552e.gif"/>
